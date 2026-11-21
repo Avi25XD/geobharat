@@ -1,0 +1,13 @@
+{
+  "appId": "com.geobharat.quiz",
+  "appName": "GeoBharat",
+  "webDir": "www",
+  "backgroundColor": "#fff8ee",
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_geobharat",
+      "iconColor": "#E8730C"
+    }
+  }
+}

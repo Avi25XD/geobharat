@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_title">GEOBHARAT · DID YOU KNOW?</string>
+    <string name="widget_cta">Tap to play the quiz</string>
+    <string name="widget_next">Next fact</string>
+    <string name="widget_description">A new India geography fact every day.</string>
+</resources>

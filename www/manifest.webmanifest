@@ -1,0 +1,17 @@
+{
+  "name": "GeoBharat",
+  "short_name": "GeoBharat",
+  "description": "India geography quiz with levels from Class 6 to UPSC, endless questions and learning lessons.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff8ee",
+  "theme_color": "#16213e",
+  "categories": ["education", "games"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
